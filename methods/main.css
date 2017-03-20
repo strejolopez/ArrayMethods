@@ -1,0 +1,112 @@
+html {box-sizing: border-box;}
+*, *:before, *:after {box-sizing: inherit;}
+
+
+
+.container { 
+	width: 860px; margin: 0 auto;
+	background-color: rgb(238,238,238);
+	border: 2px solid rgb(106,115,125);
+	font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+	height: 1374px;
+
+}
+.question { 
+  	margin-bottom: 25px;
+
+}
+body {
+  	text-align: center;
+  	background-color: rgb(221,221,221);
+}
+p {
+	margin-bottom: 16px;
+	font-size: 15px;
+    margin-right: 710px;
+    margin-top: 12px;
+    font-size: 22px;
+    font-family: Arial;
+    color: rgb(96,94,99);
+}
+h4 {
+  	display: flex;
+  	color: rgb(76,76,76);
+  	font-size: 25px;
+}
+h4:before, h4:after {
+  color:rgba(229,229,229,229);
+  content:'';
+  flex:1;
+  border-bottom: 1px solid 
+  margin:11px 0.25em;
+  box-shadow: 0 -1px ;
+}
+h4:before {
+	margin-top: 16px;
+}
+h4:after {
+	margin-top: 16px;
+}
+pre {
+	color: {83,83,83}
+}
+#answer1 {
+	 font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+	 font-size: 10px;
+	 color: rgb(92,92,92);
+
+}
+#answer2 {
+	 font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+	 font-size: 10px;
+	 color: rgb(92,92,92);
+
+}
+#answer3 {
+	 font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+	 font-size: 10px;
+	 color: rgb(92,92,92);
+
+}
+#answer4 {
+	 font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+	 font-size: 10px;
+	 color: rgb(92,92,92);
+
+}
+#answer5 {
+	 font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+	 font-size: 10px;
+	 color: rgb(92,92,92);
+
+}
+#answer6 {
+	 font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+	 font-size: 10px;
+	 color: rgb(92,92,92);
+}
+img {
+	width: 852px;
+    margin-bottom: 20px;
+}
+.footer { 
+	height:110px;
+	background-color: rgb(75,73,79);
+	margin-top:70px;
+	padding-left: 0px;
+	padding-top: 80px;
+}
+.bottom {
+	margin-bottom: 0px;
+	font-size: 10px;
+    margin-right: 0px;
+    margin-top: 0px;
+    font-family: Arial;
+    color: rgb(150,150,150);
+}
+
+
+
+
+
+
